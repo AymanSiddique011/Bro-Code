@@ -30,6 +30,9 @@ let students = 31;
    4. Addition & Subtraction
 */
 
-let result = 12 % 5 + 7 / 2;
-console.log(result);
+/*let result = 12 % 5 + 7 / 2;
+console.log(result);*/
+
+let result = 6 / 2 ** (2+5);
+console.log(result)
 
