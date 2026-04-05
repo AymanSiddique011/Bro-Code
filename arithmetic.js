@@ -33,6 +33,6 @@ let students = 31;
 /*let result = 12 % 5 + 7 / 2;
 console.log(result);*/
 
-let result = 6 / 2 ** (2+5);
+let result = 6 / 8 ** (2+5);
 console.log(result)
 
