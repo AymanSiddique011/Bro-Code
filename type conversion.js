@@ -25,11 +25,11 @@ let a;
 let b;
 let c;
 
-// a = Number(a);
-// b = String(b);
-// c = Boolean(c);
+a = Number(a);
+b = String(b);
+c = Boolean(c);
 
-console.log (a, typeof a);
-console.log (b, typeof b);
-console.log (c, typeof c);
+// console.log (a, typeof a);
+// console.log (b, typeof b);
+// console.log (c, typeof c);
 

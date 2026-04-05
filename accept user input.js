@@ -18,9 +18,9 @@ document.getElementById("mySubmit").onclick = function(){
     //console.log(username); 
 }*/
 
-let username;
+/* let username;
 
 document.getElementById("mySubmit").onclick = function(){
     username = document.getElementById("myText").value;
     console.log(username);
-}
+} */
