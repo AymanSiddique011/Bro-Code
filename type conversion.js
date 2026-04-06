@@ -8,13 +8,13 @@ console.log(age ,typeof age); */
 
 // Another Example
 
-let x = "Pizza";
-let y = "Burger";
-let z = "Pasta";
+//let x = "Pizza";
+//let y = "Burger";
+//let z = "Pasta";
 
-x = Number(x);
-y = String(y);
-z = Boolean(z);
+//x = Number(x);
+//y = String(y);
+//z = Boolean(z);
 
 // console.log (x, typeof x);
 // console.log (y, typeof y);

@@ -34,5 +34,5 @@ let students = 31;
 console.log(result);*/
 
 let result = 6 / 8 ** (2+5);
-console.log(result)
+//console.log(result)
 
